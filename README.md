@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/juliolimoli/pytest_learning/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/juliolimoli/pytest_learning/actions/workflows/testing-ci.yml)
 # Pytest learning Repository
 
 ## Summary
